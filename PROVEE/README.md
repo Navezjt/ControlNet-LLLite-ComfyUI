@@ -1,1 +1,3 @@
-https://github.com/kohya-ss/ControlNet-LLLite-ComfyUI
+- https://github.com/kohya-ss/ControlNet-LLLite-
+- https://github.com/mycodeiscat/ControlNet-LLLite-diffusers
+- https://github.com/Navezjt/sd-scripts
